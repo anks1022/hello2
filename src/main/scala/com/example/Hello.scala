@@ -2,6 +2,6 @@ package com.example
 
 object Hello {
   def main(args: Array[String]): Unit = {
-    println("Hello, my world again!")
+    println("Oh Hello, world, long time!")
   }
 }
