@@ -11,6 +11,6 @@ object Hello {
 
   def bye = println("bye")
 
-  def byemaybe = println("may be may be not")
+  def byemaybe = println("may be may be not...")
 
 }
