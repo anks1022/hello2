@@ -9,6 +9,8 @@ object Hello {
 
   def hi = println("hi... u there !!")
 
-  def bye = println("byess")
+  def bye = println("bye")
+
+  def byemaybe = println("may be may be not")
 
 }
