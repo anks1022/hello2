@@ -7,6 +7,6 @@ object Hello {
 
   def home = println("time to go home")
 
-  def hi = println("hi...!")
+  def hi = println("hi... u there !!")
 
 }
